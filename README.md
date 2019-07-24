@@ -12,6 +12,9 @@ Elija el modo...
     * [¿Cómo cambiar el volumen de la Raspberry Pi’s usando la linea de comandos?](https://github.com/tjbotcz/manuals/tree/master/es/bring-to-life#como-cambiar-el-volumen-de-raspberry-pi-mediante-la-linea-de-comando)
     * [Configuracion de la salida de audio a conector jack](https://github.com/tjbotcz/manuals/tree/master/es/bring-to-life#configuracion-de-la-salida-de-audio-a-conector-jack)
     * [Adquiera mas espacio en su Tarjeta microSD](https://github.com/tjbotcz/manuals/tree/master/es/bring-to-life#adquiera-mas-espacio-en-su-tarjeta-microsd)
+     * [Clonar tarjeta microSD](https://github.com/tjbotcz/manuals/blob/master/en/bring-to-life/README.md#cloning-microsd-card-on-macos)
+    * [Cómo editar archivos de forma remota en TJBotCZ directamente desde VS Code](https://github.com/tjbotcz/manuals/blob/master/en/bring-to-life/README.md#how-to-remotely-edit-files-on-tjbotcz-directly-from-vs-code)
+    * [Cómo configurar el botón IP en TJBotCZ](https://github.com/tjbotcz/manuals/tree/master/en/bring-to-life#how-to-setup-ip-button-on-tjbotcz)
     
 ## Instalación rápida desde una configuración ya establecida. 
 
